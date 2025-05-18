@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    @apply font-body bg-lemon-light text-lemon-dark;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-heading font-medium;
+  }
+
+  h1 {
+    @apply text-4xl md:text-5xl leading-tight;
+  }
+  
+  h2 {
+    @apply text-3xl md:text-4xl leading-tight;
+  }
+  
+  h3 {
+    @apply text-2xl md:text-3xl leading-snug;
+  }
+  
+  p {
+    @apply leading-relaxed;
+  }
+}
+
+@layer components {
+  .btn {
+    @apply px-6 py-2 rounded-lg font-medium transition duration-200 inline-flex items-center justify-center;
+  }
+  
+  .btn-primary {
+    @apply bg-lemon-primary text-white hover:bg-opacity-90;
+  }
+  
+  .btn-secondary {
+    @apply bg-lemon-secondary text-lemon-dark hover:bg-opacity-90;
+  }
+  
+  .btn-outline {
+    @apply border border-lemon-primary text-lemon-primary hover:bg-lemon-primary hover:text-white;
+  }
+  
+  .container-custom {
+    @apply mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl;
+  }
+  
+  .input-field {
+    @apply w-full rounded-lg border border-gray-300 px-4 py-2 focus:border-lemon-primary focus:ring focus:ring-lemon-primary focus:ring-opacity-50;
+  }
+  
+  .card {
+    @apply bg-white rounded-lg shadow-md overflow-hidden transition duration-300 hover:shadow-lg;
+  }
+}

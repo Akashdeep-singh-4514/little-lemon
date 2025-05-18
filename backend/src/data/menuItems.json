@@ -1,0 +1,402 @@
+[
+  {
+    "id": "1",
+    "name": "Greek Salad",
+    "description": "Fresh Mediterranean salad with crispy lettuce, tomatoes, cucumbers, olives, and feta cheese, dressed with olive oil and oregano.",
+    "price": 12.99,
+    "category": "appetizers",
+    "image": "https://images.pexels.com/photos/1640772/pexels-photo-1640772.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "2",
+    "name": "Bruschetta",
+    "description": "Grilled bread rubbed with garlic, topped with diced tomatoes, fresh basil, and extra virgin olive oil.",
+    "price": 9.99,
+    "category": "appetizers",
+    "image": "https://images.pexels.com/photos/2097090/pexels-photo-2097090.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "3",
+    "name": "Lemon Dessert",
+    "description": "A tangy and sweet lemon cake with a light, fluffy texture and a refreshing citrus glaze.",
+    "price": 7.99,
+    "category": "desserts",
+    "image": "https://images.pexels.com/photos/2092897/pexels-photo-2092897.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "4",
+    "name": "Mediterranean Pasta",
+    "description": "Al dente pasta tossed with sun-dried tomatoes, olives, artichokes, and feta cheese in a light olive oil sauce.",
+    "price": 15.99,
+    "category": "main_courses",
+    "image": "https://images.pexels.com/photos/1527603/pexels-photo-1527603.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "5",
+    "name": "Hummus Plate",
+    "description": "Creamy chickpea dip served with warm pita bread, olive oil, and a sprinkle of paprika.",
+    "price": 8.99,
+    "category": "appetizers",
+    "image": "https://images.pexels.com/photos/1618901/pexels-photo-1618901.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "6",
+    "name": "Grilled Salmon",
+    "description": "Fresh salmon fillet grilled to perfection, served with a lemon-dill sauce and seasonal vegetables.",
+    "price": 24.99,
+    "category": "main_courses",
+    "image": "https://images.pexels.com/photos/3763847/pexels-photo-3763847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "7",
+    "name": "Tiramisu",
+    "description": "Classic Italian dessert made with layers of coffee-soaked ladyfingers and mascarpone cream, dusted with cocoa powder.",
+    "price": 8.99,
+    "category": "desserts",
+    "image": "https://images.pexels.com/photos/6479548/pexels-photo-6479548.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "8",
+    "name": "Lamb Gyro",
+    "description": "Tender slices of seasoned lamb wrapped in warm pita bread with tomatoes, onions, and tzatziki sauce.",
+    "price": 14.99,
+    "category": "main_courses",
+    "image": "https://images.pexels.com/photos/9439432/pexels-photo-9439432.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "9",
+    "name": "Spanakopita",
+    "description": "Flaky phyllo pastry filled with spinach, feta cheese, onions, and herbs, baked until golden brown.",
+    "price": 10.99,
+    "category": "appetizers",
+    "image": "https://images.pexels.com/photos/6605216/pexels-photo-6605216.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "10",
+    "name": "Baklava",
+    "description": "Sweet dessert made with layers of phyllo pastry, filled with chopped nuts and sweetened with honey or syrup.",
+    "price": 6.99,
+    "category": "desserts",
+    "image": "https://images.pexels.com/photos/6605212/pexels-photo-6605212.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "11",
+    "name": "Calamari Fritti",
+    "description": "Tender squid rings lightly battered and fried to a golden crisp, served with lemon aioli.",
+    "price": 13.99,
+    "category": "appetizers",
+    "image": "https://images.pexels.com/photos/5639352/pexels-photo-5639352.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "12",
+    "name": "Moussaka",
+    "description": "Traditional Greek casserole with layers of eggplant, potatoes, seasoned ground lamb, and béchamel sauce.",
+    "price": 18.99,
+    "category": "main_courses",
+    "image": "https://images.pexels.com/photos/6605243/pexels-photo-6605243.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "13",
+    "name": "Sangria",
+    "description": "Refreshing wine punch with fresh fruit, brandy, and a hint of sweetness.",
+    "price": 9.99,
+    "category": "drinks",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/sangria-lead-643044c9dfb40.jpg?crop=1xw:1xh;center,top&resize=1200:*"
+  },
+  {
+    "id": "14",
+    "name": "Chef's Special Seafood Paella",
+    "description": "Saffron-infused rice with a medley of seafood, including shrimp, mussels, clams, and fish, with bell peppers and peas.",
+    "price": 29.99,
+    "category": "specials",
+    "image": "https://images.pexels.com/photos/12419160/pexels-photo-12419160.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "15",
+    "name": "Fresh Lemonade",
+    "description": "Housemade lemonade with fresh lemon juice, sugar, and a sprig of mint.",
+    "price": 4.99,
+    "category": "drinks",
+    "image": "https://images.pexels.com/photos/96974/pexels-photo-96974.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "16",
+    "name": "Mediterranean Lamb Chops",
+    "description": "Grilled lamb chops marinated in herbs and olive oil, served with roasted potatoes and tzatziki.",
+    "price": 27.99,
+    "category": "main_courses",
+    "image": "https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "17",
+    "name": "Falafel Plate",
+    "description": "Crispy chickpea fritters served with tahini sauce, pita bread, and a fresh Mediterranean salad.",
+    "price": 12.99,
+    "category": "appetizers",
+    "image": "https://images.pexels.com/photos/1618898/pexels-photo-1618898.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "18",
+    "name": "Chicken Souvlaki",
+    "description": "Skewered chunks of marinated chicken, grilled and served with pita, tzatziki, and a Greek salad.",
+    "price": 16.99,
+    "category": "main_courses",
+    "image": "https://images.pexels.com/photos/2955819/pexels-photo-2955819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "19",
+    "name": "Greek Yogurt with Honey",
+    "description": "Creamy Greek yogurt topped with local honey, walnuts, and fresh berries.",
+    "price": 7.99,
+    "category": "desserts",
+    "image": "https://images.pexels.com/photos/1633559/pexels-photo-1633559.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "20",
+    "name": "Turkish Coffee",
+    "description": "Rich, unfiltered coffee prepared in a traditional cezve, served with a small sweet treat.",
+    "price": 4.99,
+    "category": "drinks",
+    "image": "https://images.pexels.com/photos/977878/pexels-photo-977878.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "21",
+    "name": "Stuffed Grape Leaves",
+    "description": "Vine leaves stuffed with a savory mix of rice, pine nuts, and herbs, served with lemon wedges.",
+    "price": 9.99,
+    "category": "appetizers",
+    "image": "https://sinfulkitchen.com/wp-content/uploads/2024/06/Turkish-Grape-Leaves-Inside-Long.jpg"
+  },
+  {
+    "id": "22",
+    "name": "Seafood Risotto",
+    "description": "Creamy Arborio rice with shrimp, scallops, and fresh herbs, finished with parmesan cheese.",
+    "price": 22.99,
+    "category": "main_courses",
+    "image": "https://www.foodandwine.com/thmb/xknswrgx1zinjIl5vkc134veNuM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Creamy-Seafood-Risotto-FT-RECIPE0424-93122ee3618140158aac45055aa17aa9.jpg"
+  },
+  {
+    "id": "23",
+    "name": "Anniversary Special: Lobster Linguine",
+    "description": "Linguine pasta with succulent lobster in a rich tomato and white wine sauce with a touch of cream.",
+    "price": 34.99,
+    "category": "specials",
+    "image": "https://images.pexels.com/photos/699953/pexels-photo-699953.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "24",
+    "name": "Mediterranean Mezze Platter",
+    "description": "A selection of small dishes including hummus, baba ganoush, tabbouleh, olives, and warm pita bread.",
+    "price": 19.99,
+    "category": "appetizers",
+    "image": "https://images.pexels.com/photos/6419736/pexels-photo-6419736.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "25",
+    "name": "Ratatouille",
+    "description": "Traditional French Provençal vegetable stew with eggplant, zucchini, bell peppers, and tomatoes.",
+    "price": 14.99,
+    "category": "main_courses",
+    "image": "https://images.pexels.com/photos/6419749/pexels-photo-6419749.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "26",
+    "name": "Orange Blossom Cake",
+    "description": "Moist cake infused with orange blossom water, topped with a light citrus glaze and pistachios.",
+    "price": 8.99,
+    "category": "desserts",
+    "image": "https://images.pexels.com/photos/7474213/pexels-photo-7474213.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "27",
+    "name": "Mint Tea",
+    "description": "Traditional Moroccan-style tea with fresh mint leaves and a hint of sweetness.",
+    "price": 3.99,
+    "category": "drinks",
+    "image": "https://images.pexels.com/photos/1417945/pexels-photo-1417945.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "28",
+    "name": "Beef Kebab",
+    "description": "Tender pieces of marinated beef, skewered and grilled with vegetables, served with rice pilaf.",
+    "price": 18.99,
+    "category": "main_courses",
+    "image": "https://images.pexels.com/photos/7474245/pexels-photo-7474245.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "29",
+    "name": "Saganaki",
+    "description": "Greek fried cheese, flambéed tableside with a squeeze of lemon juice.",
+    "price": 11.99,
+    "category": "appetizers",
+    "image": "https://images.pexels.com/photos/5639429/pexels-photo-5639429.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "30",
+    "name": "Seasonal Fruit Tart",
+    "description": "Buttery pastry crust filled with custard and topped with fresh seasonal fruits.",
+    "price": 9.99,
+    "category": "desserts",
+    "image": "https://www.khanzcafeandbakery.co.nz/wp-content/uploads/2024/05/image-25.webp"
+  },
+  {
+    "id": "31",
+    "name": "Red Wine Sangria Pitcher",
+    "description": "A refreshing pitcher of sangria made with red wine, brandy, and fresh seasonal fruits.",
+    "price": 24.99,
+    "category": "drinks",
+    "image": "https://images.pexels.com/photos/1283219/pexels-photo-1283219.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "32",
+    "name": "Mushroom Risotto",
+    "description": "Creamy Arborio rice with a variety of wild mushrooms, finished with parmesan and truffle oil.",
+    "price": 16.99,
+    "category": "main_courses",
+    "image": "https://images.pexels.com/photos/5639272/pexels-photo-5639272.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "33",
+    "name": "Roasted Beet Salad",
+    "description": "Roasted beets with arugula, goat cheese, walnuts, and a balsamic vinaigrette.",
+    "price": 11.99,
+    "category": "appetizers",
+    "image": "https://images.pexels.com/photos/1152237/pexels-photo-1152237.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "34",
+    "name": "Pistachio Gelato",
+    "description": "Homemade Italian-style ice cream made with roasted pistachios and a touch of honey.",
+    "price": 5.99,
+    "category": "desserts",
+    "image": "https://images.pexels.com/photos/1352296/pexels-photo-1352296.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "35",
+    "name": "Limoncello",
+    "description": "Traditional Italian lemon liqueur, served ice cold as a digestif.",
+    "price": 7.99,
+    "category": "drinks",
+    "image": "https://images.pexels.com/photos/8754595/pexels-photo-8754595.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "36",
+    "name": "Vegetable Tagine",
+    "description": "Moroccan-style vegetable stew with aromatic spices, served with couscous.",
+    "price": 15.99,
+    "category": "main_courses",
+    "image": "https://images.pexels.com/photos/6419728/pexels-photo-6419728.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "37",
+    "name": "Tzatziki",
+    "description": "Refreshing yogurt dip with cucumber, garlic, and dill, served with warm pita bread.",
+    "price": 7.99,
+    "category": "appetizers",
+    "image": "https://images.pexels.com/photos/7474247/pexels-photo-7474247.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "38",
+    "name": "Chocolate Olive Oil Cake",
+    "description": "Rich, moist chocolate cake made with extra virgin olive oil and a hint of sea salt.",
+    "price": 8.99,
+    "category": "desserts",
+    "image": "https://images.pexels.com/photos/2144112/pexels-photo-2144112.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "39",
+    "name": "Prosecco",
+    "description": "Crisp Italian sparkling wine, perfect for celebrations or as an aperitif.",
+    "price": 9.99,
+    "category": "drinks",
+    "image": "https://images.pexels.com/photos/1028637/pexels-photo-1028637.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "40",
+    "name": "Summer Special: Grilled Whole Sea Bass",
+    "description": "Fresh whole sea bass grilled with lemon, herbs, and olive oil, served with seasonal vegetables.",
+    "price": 32.99,
+    "category": "specials",
+    "image": "https://images.pexels.com/photos/6419750/pexels-photo-6419750.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "41",
+    "name": "Tomato Basil Soup",
+    "description": "Creamy tomato soup with fresh basil and a drizzle of olive oil, served with crusty bread.",
+    "price": 8.99,
+    "category": "appetizers",
+    "image": "https://images.pexels.com/photos/539451/pexels-photo-539451.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "42",
+    "name": "Eggplant Parmesan",
+    "description": "Layers of breaded eggplant, tomato sauce, and cheese, baked until bubbly and golden.",
+    "price": 16.99,
+    "category": "main_courses",
+    "image": "https://images.pexels.com/photos/6419732/pexels-photo-6419732.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "43",
+    "name": "Cannoli",
+    "description": "Crisp pastry tubes filled with sweet ricotta cream and chocolate chips, dusted with powdered sugar.",
+    "price": 6.99,
+    "category": "desserts",
+    "image": "https://images.pexels.com/photos/9986228/pexels-photo-9986228.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "44",
+    "name": "Pomegranate Mojito",
+    "description": "Refreshing cocktail with rum, mint, lime, and pomegranate juice.",
+    "price": 10.99,
+    "category": "drinks",
+    "image": "https://images.pexels.com/photos/616836/pexels-photo-616836.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "45",
+    "name": "Grilled Octopus",
+    "description": "Tender octopus grilled to perfection, served with lemon, olive oil, and herbs.",
+    "price": 18.99,
+    "category": "appetizers",
+    "image": "https://images.pexels.com/photos/566345/pexels-photo-566345.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "46",
+    "name": "Osso Buco",
+    "description": "Slow-cooked veal shanks in a rich, aromatic broth with vegetables, served with gremolata.",
+    "price": 28.99,
+    "category": "main_courses",
+    "image": "https://images.pexels.com/photos/6419747/pexels-photo-6419747.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "47",
+    "name": "Fig and Almond Tart",
+    "description": "Buttery crust filled with almond cream and topped with fresh figs and honey.",
+    "price": 9.99,
+    "category": "desserts",
+    "image": "https://loveincorporated.blob.core.windows.net/contentimages/main/7dfaf966-24f3-422b-a88b-56cbbbf1195f-fig-and-almond-tart.jpg"
+  },
+  {
+    "id": "48",
+    "name": "Mediterranean Iced Tea",
+    "description": "Refreshing tea infused with orange blossom water and fresh mint leaves.",
+    "price": 4.99,
+    "category": "drinks",
+    "image": "https://images.pexels.com/photos/792613/pexels-photo-792613.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "49",
+    "name": "Chef's Weekly Special: Truffle Risotto",
+    "description": "Creamy risotto with seasonal truffles, finished with aged parmesan and truffle oil.",
+    "price": 26.99,
+    "category": "specials",
+    "image": "https://images.pexels.com/photos/14537661/pexels-photo-14537661.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "50",
+    "name": "Saffron Paella",
+    "description": "Traditional Spanish rice dish with saffron, chicken, chorizo, and seafood, cooked in a wide, shallow pan.",
+    "price": 24.99,
+    "category": "main_courses",
+    "image": "https://images.pexels.com/photos/8696567/pexels-photo-8696567.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  }
+]
